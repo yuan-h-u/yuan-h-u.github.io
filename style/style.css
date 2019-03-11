@@ -1,0 +1,66 @@
+body {
+    font-family: Calibri;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Playfair Display";
+}
+
+h3 {
+	font-size: 20px;
+}
+
+h4 {
+	font-size: 17px;
+}
+
+a {
+    outline: none;
+    cursor: pointer;
+}
+
+footer {
+    font-family: Calibri;
+    font-size: 12px;
+    padding: 200px 0 50px 0;
+    text-align: center;
+}
+
+.navbar {
+    text-align: center;
+    font-family: "Playfair Display";
+    margin-bottom: 0;
+}
+
+#name {
+    padding-bottom: 20px;
+}
+
+.page-header {
+    border-bottom: 0px;
+}
+
+img {
+    vertical-align: top;
+}
+
+.profile {
+    display: inline-block;
+    margin: 0 20px 10px 20px;
+}
+
+.background {
+    display: inline-block;
+}
+
+.paperTitle {
+    font-family: Calibri;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.section {
+    margin-bottom: 35px;
+}
